@@ -86,16 +86,6 @@ AI-powered resume analyzer that evaluates resumes, provides ATS feedback, and su
 **Tech:** React • Django • Django REST Framework • MySQL • OpenRouter AI
 
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akheedha&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akheedha&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
