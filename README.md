@@ -85,11 +85,6 @@ AI-powered resume analyzer that evaluates resumes, provides ATS feedback, and su
 
 **Tech:** React • Django • Django REST Framework • MySQL • OpenRouter AI
 
----
-
-### 🔐 BlockCert
-
-Blockchain-powered academic credential verification platform.
 
 ---
 
