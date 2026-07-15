@@ -51,9 +51,6 @@ Building modern web applications with Python, React, Node.js, and AI.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### AI
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
 
 ### Tools
 
