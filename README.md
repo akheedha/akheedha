@@ -14,7 +14,6 @@ Building modern web applications with Python, React, Node.js, and AI.
 - 🤖 Interested in Artificial Intelligence
 - 🌱 Currently learning advanced AI and cloud technologies
 - 🚀 Looking for Software Engineer / Full Stack Developer opportunities
-- 📍 Based in Dubai, UAE
 
 ---
 
