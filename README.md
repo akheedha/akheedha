@@ -50,9 +50,6 @@ Full-stack OTT streaming platform with authentication, search, watchlists and pr
 
 [GitHub](https://github.com/akheedha/lumixplay) · [Live Demo](https://lumixplay.vercel.app)
 
-## GitHub Stats
-
-![Akheedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akheedha&show_icons=true&hide_border=true)
 
 ## Connect With Me
 
