@@ -1,3 +1,33 @@
+<div align="center">
+
+  <!-- HOLOGRAPHIC CYBER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,12,20,24&height=180&section=header&text=AKHEEDHA%20JAN&fontSize=42&fontColor=00f2fe&fontAlignY=45&desc=SYSTEM%20CORE%20%7C%7C%20FULL-STACK%20%26%20AI%20ENGINEER&descFontSize=16&descColor=4facfe&descAlignY=70&animation=twinkling" width="100%"/>
+
+  <!-- DYNAMIC NEURAL TYPING HUD -->
+  <a href="https://github.com/akheedha">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=%E2%88%BF+ARCHITECTING+NEXT-GEN+AI+SYSTEMS;%E2%88%BF+FULL-STACK+ENGINEER+%7C+REACT+%E2%80%A2+DJANGO+%E2%80%A2+NODE;%E2%88%BF+MULTIMODAL+VISION+%26+LLM+INTEGRATIONS;%E2%88%BF+BUILDING+SCALABLE+CLOUD+ECOSYSTEMS" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/akheedha"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=050510&labelColor=0077B5" alt="LinkedIn" /></a>
+    <a href="mailto:akheedha@gmail.com"><img src="https://img.shields.io/badge/NEURAL_DISPATCH-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=050510&labelColor=D14836" alt="Email" /></a>
+    <a href="https://github.com/akheedha"><img src="https://img.shields.io/badge/GITHUB_MATRIX-100000?style=for-the-badge&logo=github&logoColor=00F2FE&color=050510&labelColor=1a1a2e" alt="GitHub" /></a>
+  </p>
+
+</div>
+
+---
+
+### 🛰️ `// SYSTEM_TELEMETRY & STATUS`
+
+```yaml
+SYS_STATUS:  ● OPERATIONAL [READY FOR NEW DIRECTIVES]
+IDENTITY:    Akheedha Jan (CSE Graduate // Full Stack AI Engineer)
+SPECIALTY:   Generative AI Pipelines • High-Concurrency Backends • Reactive Interfaces
+TECH_CORE:   [TypeScript, Python, React 19, Django REST, Node.js, PostgreSQL]
+AI_ENGINES:  [Google Gemini 2.5 Flash, OpenRouter, Multimodal Vision, Embeddings]
+DIRECTIVE:   Architecting intelligent, human-in-the-loop autonomous digital products
+
 <h1 align="center">Hi 👋, I'm Akheedha Jan</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Computer Science Engineering Graduate</h3>
 
