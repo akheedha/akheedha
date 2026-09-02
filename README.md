@@ -5,9 +5,9 @@
 
   <br />
 
-  <!-- Animated Typing Marquee -->
+  <!-- Animated Professional Titles -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&pause=1200&color=F72585&center=true&vCenter=true&width=600&lines=Building+Scalable+Full-Stack+Web+Apps;Specialized+in+React%2C+Node.js+%26+Django;Empowering+Products+with+AI+%26+Gemini;Crafting+Production-Ready+APIs+%26+Cloud+Deployments" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&pause=1200&color=F72585&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;MERN+Stack+Developer;AI+Developer;Mobile+App+Developer" alt="Typing SVG" />
   </a>
 
   <br />
@@ -35,12 +35,12 @@
   <tr>
     <td>🎓 <strong>Education</strong></td>
     <td><img src="https://img.shields.io/badge/B.Tech-CSE_(2022--2026)-purple?style=flat-square&logo=udacity&logoColor=white" alt="B.Tech CSE" /></td>
-    <td>🏢 <strong>Experience</strong></td>
-    <td><img src="https://img.shields.io/badge/Internship-MashupStack-orange?style=flat-square&logo=codeforces&logoColor=white" alt="MashupStack" /></td>
+    <td>📱 <strong>Mobile Dev</strong></td>
+    <td><img src="https://img.shields.io/badge/Mobile-React_Native_•_Flutter-blueviolet?style=flat-square&logo=flutter&logoColor=white" alt="Mobile Dev" /></td>
   </tr>
   <tr>
-    <td>🤖 <strong>AI Focus</strong></td>
-    <td><img src="https://img.shields.io/badge/GenAI-Gemini_%26_OpenRouter-8E75B2?style=flat-square&logo=google&logoColor=white" alt="GenAI" /></td>
+    <td>🤖 <strong>AI Stack</strong></td>
+    <td><img src="https://img.shields.io/badge/AI-Gemini_•_OpenRouter-8E75B2?style=flat-square&logo=google&logoColor=white" alt="GenAI" /></td>
     <td>⚡ <strong>Core Stack</strong></td>
     <td><img src="https://img.shields.io/badge/Stack-React_•_Django_•_Node_•_Postgres-00C7B7?style=flat-square&logo=react&logoColor=white" alt="Core Stack" /></td>
   </tr>
@@ -50,11 +50,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Computer Science & Engineering graduate** from University College of Engineering, Kerala University (`2022 – 2026`).
-- 💼 **Software Developer Intern** at MashupStack with hands-on experience building full-stack web applications.
-- 🤖 Enthusiastic about **AI-driven applications** — integrating Google Gemini API & OpenRouter into modern user workflows.
-- 🔌 Proficient in designing **REST APIs, JWT authentication, and relational database architectures**.
-- ⚙️ Skilled with **Docker, Linux, GitHub Actions CI/CD, and AWS EC2 / S3**.
+- 🚀 Full Stack & Mobile Developer passionate about building high-performance web apps and modern software solutions.
+- 🐍 Specialized in **Python Full Stack** (Django, DRF) and **MERN Stack** (MongoDB, Express, React, Node.js).
+- 📱 Developing cross-platform mobile apps with responsive, intuitive user interfaces.
+- 🤖 Integrating practical **AI capabilities** into scalable real-world digital products.
+- ☁️ Skilled in **Docker, Linux, GitHub Actions CI/CD, and AWS Cloud deployments**.
 
 ---
 
@@ -71,14 +71,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Frontend Architecture</h3>
+      <h3 align="center">🎨 Frontend & Mobile Architecture</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
       </p>
       <ul>
-        <li>Responsive, component-driven Single Page Applications (SPAs).</li>
+        <li>Responsive, component-driven Single Page Applications (SPAs) & mobile interfaces.</li>
         <li>Dynamic data visualization using <strong>Recharts</strong> and clean state management.</li>
         <li>Modern design systems with Tailwind CSS & Bootstrap.</li>
       </ul>
@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI & Automation</h3>
+      <h3 align="center">🤖 AI & Intelligent Products</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -163,12 +163,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### 🤖 AI Integrations
-<p>
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini API" />
-  <img src="https://img.shields.io/badge/OpenRouter_API-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter API" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
@@ -260,38 +254,10 @@
 
 ---
 
-## 💼 Experience
-
-### 💻 Software Developer Intern — **MashupStack**
-*Oct 2025 – June 2026 | Trivandrum, India*
-
-- Developed and maintained **3+ full-stack web applications** serving **30+ active users**.
-- Engineered backend systems using **Python, Django REST Framework, and MySQL / PostgreSQL**.
-- Implemented **secure REST APIs, JWT authentication, and optimized database queries**.
-- Collaborated in an **Agile team of 4**, conducting code reviews and managing workflows via Git/GitHub.
-- Resolved **15+ critical bugs** across testing, debugging, and production deployments.
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 Education
-- **Bachelor of Technology (B.Tech) — Computer Science & Engineering**  
-  *University College of Engineering, Kerala University* (`2022 – 2026`)
-
-### 📜 Professional Certifications
-- 🏅 **GitHub Actions for CI/CD**: Build, Test, and Deploy
-- ☁️ **Learning AWS for Developers**
-- 🐳 **Docker Foundations Professional Certificate**
-- 🤖 **Career Essentials in GitHub Copilot Professional Certificate**
-- 💻 **Software Engineering & Agile Software Development**
-
----
-
 ## 📬 Let's Connect!
 
 <p align="center">
-  I'm always open to discussing new opportunities, full-stack development roles, open-source projects, and AI product ideas.
+  I'm always open to discussing new opportunities, full-stack & mobile development roles, open-source projects, and AI product ideas.
 </p>
 
 <p align="center">
