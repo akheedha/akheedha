@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- Animated Header Banner with Gradient Waves & Twinkling Stars -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF007A,25:7928CA,50:4338CA,75:06B6D4,100:3B82F6&height=220&section=header&text=%E2%9C%A8%20Akheedha%20Jan%20%E2%9C%A8&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20%26%20Cloud%20Builder&descSize=18&descAlignY=70" width="100%" alt="Akheedha Jan Header Banner" />
+  <!-- Self-Hosted Animated Header Banner with Neon Gradient & Twinkling Effects -->
+  <img src="./assets/header.svg" width="100%" alt="Akheedha Jan" />
 
-  <!-- Dynamic Typing Animation -->
+  <br />
+
+  <!-- Animated Typing Marquee -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&pause=1200&color=F72585&center=true&vCenter=true&width=600&lines=Building+Scalable+Full-Stack+Web+Apps;Specialized+in+React%2C+Node.js+%26+Django;Empowering+Products+with+AI+%26+Gemini;Crafting+Production-Ready+APIs+%26+Cloud+Deployments" alt="Typing SVG" />
   </a>
@@ -19,7 +21,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:FF007A,25:7928CA,50:4338CA,75:06B6D4,100:3B82F6&height=4&section=header" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 🌟 Quick Snapshot
 
@@ -299,5 +301,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:3B82F6,25:06B6D4,50:4338CA,75:7928CA,100:FF007A&height=120&section=footer" width="100%" alt="Footer Wave Banner" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Wave Banner" />
 </div>
