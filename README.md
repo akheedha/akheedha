@@ -16,24 +16,33 @@
     <a href="mailto:akheedhajan20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=akheedha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </p>
-
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## ⚡ Developer Console
 
-```yaml
-name: Akheedha Jan
-role: Software Engineer / Full Stack Developer
-location: Trivandrum, India
-focus_areas: Full Stack Web Development, REST APIs, AI Integrations, Cloud Architecture
-core_stack: [React.js, Node.js, Python, Django, PostgreSQL, Docker]
-status: Open to Software Engineering & Full Stack Developer opportunities
+```bash
+akheedha@portfolio:~$ whoami
+> Akheedha Jan — Full Stack Software Engineer & AI Product Builder
+
+akheedha@portfolio:~$ cat skills.json
+{
+  "languages": ["Python", "JavaScript", "TypeScript", "SQL"],
+  "frontend":  ["React.js", "Vite", "Tailwind CSS", "Bootstrap"],
+  "backend":   ["Django", "Django REST Framework", "Node.js", "Express.js"],
+  "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+  "ai_stack":  ["Google Gemini API", "OpenRouter API", "Prompt Engineering"],
+  "devops":    ["Docker", "GitHub Actions CI/CD", "AWS (EC2, S3)", "Linux"]
+}
+
+akheedha@portfolio:~$ akheedha --status
+> 🟢 Active & Open for Full-Stack & Software Engineering opportunities
 ```
+
+---
+
+## 👩‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science & Engineering** from University College of Engineering, Kerala University (`2022 – 2026`).
 - 💼 **Software Developer Intern** at MashupStack, building and deploying production-grade web applications.
@@ -43,25 +52,37 @@ status: Open to Software Engineering & Full Stack Developer opportunities
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Engineering Pillars
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Modern Full-Stack Development</h4>
+      <p>Building high-performance SPAs with React, Vite, and Tailwind, paired with scalable RESTful backends using Django REST Framework and Node.js.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Practical AI Integrations</h4>
+      <p>Integrating Gemini & OpenRouter APIs to eliminate manual overhead, automating ATS parsing and expense management with 80%+ efficiency gains.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Robust Architecture & Security</h4>
+      <p>Implementing secure JWT authentication, role-based access control (RBAC), and relational schema design across PostgreSQL and MySQL.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Cloud & DevOps Automation</h4>
+      <p>Setting up GitHub Actions CI/CD workflows, Dockerizing microservices, and deploying production apps to AWS, Vercel, and Render.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=akheedha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akheedha's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akheedha&theme=tokyonight&hide_border=true" alt="Akheedha's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akheedha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akheedha&theme=tokyonight&hide_border=true" alt="Akheedha's GitHub Streak" />
 </div>
 
 ---
