@@ -27,25 +27,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🏗️ [BuildMetrics](https://github.com/akheedha/projects-expenses-tracker) • [Live Demo](https://projects-expenses-tracker.vercel.app)
-*AI-Powered Construction Project & Expense Management Platform*
-- Integrated **Google Gemini API** for automated expense categorization, material invoice processing, and predictive budget forecasting.
-- Reduced manual logging overhead by **85%** with interactive financial visualizers built with **React, Node.js, PostgreSQL, and Recharts**.
-
-#### 📄 [ResumeForge](https://github.com/akheedha/ai-resume-analyzer) • [Live Demo](https://ai-resume-analyzer-phi-eight.vercel.app)
-*Intelligent ATS Candidate Evaluation & Resume Analytics Platform*
-- Engineered an automated ATS scoring and skill-gap extraction pipeline using **OpenRouter LLM APIs** and asynchronous PDF extraction.
-- Accelerated candidate screening by **~80%** with a responsive **React, Django REST Framework, and Tailwind CSS** interface.
-
-#### 🎬 [LumixPlay](https://github.com/akheedha/lumixplay) • [Live Demo](https://lumixplay.vercel.app)
-*Full-Stack OTT Media Streaming & Content Discovery Platform*
-- Developed a high-throughput media catalog with category filtering, user watchlists, trailer streaming, and administrative dashboards.
-- Architected with **React**, **Django REST Framework**, and **PostgreSQL/SQLite**, featuring secure **JWT** multi-device authentication.
-
----
-
 ### 📈 GitHub Activity
 
 <p align="center">
