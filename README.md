@@ -27,16 +27,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akheedha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="Akheedha's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akheedha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   Feel free to reach out via <a href="mailto:akheedhajan20@gmail.com"><strong>Email</strong></a> or connect on <a href="https://linkedin.com/in/akheedha"><strong>LinkedIn</strong></a>.
 </p>
