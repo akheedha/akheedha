@@ -1,110 +1,120 @@
-<svg viewBox="0 0 850 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 900 220" width="100%" height="220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117" />
-      <stop offset="50%" stop-color="#161b22" />
-      <stop offset="100%" stop-color="#0f172a" />
+      <stop offset="0%" stop-color="#07090E" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#0A0F1D" />
     </linearGradient>
 
-    <!-- Animated Border & Text Gradient -->
-    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF007A">
-        <animate attributeName="stop-color" values="#FF007A;#7928CA;#06B6D4;#FF007A" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#7928CA">
-        <animate attributeName="stop-color" values="#7928CA;#06B6D4;#FF007A;#7928CA" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#06B6D4">
-        <animate attributeName="stop-color" values="#06B6D4;#FF007A;#7928CA;#06B6D4" dur="6s" repeatCount="indefinite" />
-      </stop>
+    <!-- Card Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0.5" />
     </linearGradient>
 
-    <!-- Wave Gradient -->
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF007A" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#7928CA" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.8" />
+    <!-- Title Gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="40%" stop-color="#F1F5F9" />
+      <stop offset="80%" stop-color="#93C5FD" />
+      <stop offset="100%" stop-color="#C084FC" />
     </linearGradient>
 
-    <!-- Glowing Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
+    <!-- Ambient Glows -->
+    <radialGradient id="glowLeft" cx="10%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowRight" cx="90%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Subtle Dot Grid Pattern -->
+    <pattern id="dotGrid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#334155" opacity="0.25" />
+    </pattern>
   </defs>
 
   <style>
-    .title {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    .name-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif;
       font-size: 38px;
       font-weight: 800;
-      fill: url(#neonGrad);
-      letter-spacing: -0.5px;
+      fill: url(#titleGrad);
+      letter-spacing: 1.5px;
     }
-    .subtitle {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-      font-size: 16px;
-      font-weight: 500;
+    .role-subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif;
+      font-size: 15px;
+      font-weight: 400;
       fill: #94A3B8;
       letter-spacing: 0.5px;
     }
-    .tag {
-      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
-      font-size: 12px;
+    .status-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, monospace;
+      font-size: 11px;
       font-weight: 600;
       fill: #38BDF8;
-      letter-spacing: 1.2px;
+      letter-spacing: 1px;
+    }
+    .pill-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'SFMono-Regular', Consolas, monospace;
+      font-size: 11.5px;
+      font-weight: 500;
+      fill: #CBD5E1;
+      letter-spacing: 0.8px;
     }
   </style>
 
-  <!-- Background Card -->
-  <rect x="2" y="2" width="846" height="196" rx="16" fill="url(#bgGrad)" stroke="url(#neonGrad)" stroke-width="2" />
+  <!-- Background Base -->
+  <rect x="2" y="2" width="896" height="216" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5" />
 
-  <!-- Ambient Glow Orbs -->
-  <circle cx="120" cy="50" r="60" fill="#FF007A" opacity="0.15" filter="url(#glow)" />
-  <circle cx="730" cy="140" r="70" fill="#06B6D4" opacity="0.15" filter="url(#glow)" />
+  <!-- Ambient Glow Effects -->
+  <rect x="2" y="2" width="896" height="216" rx="14" fill="url(#glowLeft)" />
+  <rect x="2" y="2" width="896" height="216" rx="14" fill="url(#glowRight)" />
 
-  <!-- Decorative Wave Path at Bottom -->
-  <path d="M 2 150 Q 212 180 425 150 T 848 150 L 848 196 L 2 196 Z" fill="url(#waveGrad)" opacity="0.25">
-    <animate attributeName="d" 
-      values="M 2 150 Q 212 180 425 150 T 848 150 L 848 196 L 2 196 Z;
-              M 2 160 Q 212 130 425 160 T 848 160 L 848 196 L 2 196 Z;
-              M 2 150 Q 212 180 425 150 T 848 150 L 848 196 L 2 196 Z" 
-      dur="6s" repeatCount="indefinite" />
-  </path>
-  
-  <path d="M 2 165 Q 212 140 425 165 T 848 165 L 848 196 L 2 196 Z" fill="url(#waveGrad)" opacity="0.4">
-    <animate attributeName="d" 
-      values="M 2 165 Q 212 140 425 165 T 848 165 L 848 196 L 2 196 Z;
-              M 2 155 Q 212 175 425 155 T 848 155 L 848 196 L 2 196 Z;
-              M 2 165 Q 212 140 425 165 T 848 165 L 848 196 L 2 196 Z" 
-      dur="5s" repeatCount="indefinite" />
-  </path>
+  <!-- Grid Overlay -->
+  <rect x="2" y="2" width="896" height="216" rx="14" fill="url(#dotGrid)" />
 
-  <!-- Twinkling Sparkles -->
-  <circle cx="80" cy="40" r="2" fill="#FF007A">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="780" cy="60" r="2.5" fill="#06B6D4">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="680" cy="35" r="1.5" fill="#FACC15">
-    <animate attributeName="opacity" values="0.1;0.9;0.1" dur="1.8s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="160" cy="140" r="2" fill="#A855F7">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" />
-  </circle>
+  <!-- Corner Accents (Subtle Modern Tech Aesthetic) -->
+  <path d="M 20 35 L 20 20 L 35 20" fill="none" stroke="#38BDF8" stroke-width="2" opacity="0.6" />
+  <path d="M 880 35 L 880 20 L 865 20" fill="none" stroke="#818CF8" stroke-width="2" opacity="0.6" />
+  <path d="M 20 185 L 20 200 L 35 200" fill="none" stroke="#818CF8" stroke-width="2" opacity="0.6" />
+  <path d="M 880 185 L 880 200 L 865 200" fill="none" stroke="#38BDF8" stroke-width="2" opacity="0.6" />
 
-  <!-- Header Title -->
-  <text x="425" y="75" text-anchor="middle" class="title">✨ Akheedha Jan ✨</text>
+  <!-- Top Pill / Status Badge -->
+  <g transform="translate(325, 24)">
+    <rect width="250" height="26" rx="13" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+    <circle cx="20" cy="13" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="32" y="17" class="status-text">AVAILABLE FOR OPPORTUNITIES</text>
+  </g>
+
+  <!-- Main Name Title -->
+  <text x="450" y="94" text-anchor="middle" class="name-title">AKHEEDHA JAN</text>
 
   <!-- Subtitle -->
-  <text x="425" y="110" text-anchor="middle" class="subtitle">Full Stack Software Engineer • Web &amp; Mobile App Developer</text>
+  <text x="450" y="126" text-anchor="middle" class="role-subtitle">Software Engineer • Full-Stack Web &amp; Mobile Development • AI Systems</text>
 
-  <!-- Stack Tag Pill -->
-  <g transform="translate(235, 128)">
-    <rect width="380" height="26" rx="13" fill="#1E293B" stroke="#334155" stroke-width="1" />
-    <text x="190" y="17" text-anchor="middle" class="tag">REACT • DJANGO • NODE.JS • MOBILE APP DEV</text>
+  <!-- Tech Highlights Strip -->
+  <g transform="translate(195, 154)">
+    <rect width="510" height="34" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1" opacity="0.9" />
+    
+    <!-- Tech stack pills / labels -->
+    <text x="255" y="22" text-anchor="middle" class="pill-text">
+      <tspan fill="#38BDF8">React / Vite</tspan>
+      <tspan fill="#64748B">  •  </tspan>
+      <tspan fill="#818CF8">Django &amp; DRF</tspan>
+      <tspan fill="#64748B">  •  </tspan>
+      <tspan fill="#34D399">Node.js</tspan>
+      <tspan fill="#64748B">  •  </tspan>
+      <tspan fill="#A78BFA">PostgreSQL</tspan>
+      <tspan fill="#64748B">  •  </tspan>
+      <tspan fill="#F472B6">AI Integrations</tspan>
+    </text>
   </g>
 </svg>
