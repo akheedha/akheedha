@@ -1,32 +1,40 @@
-# Hi, I'm Akheedha Jan 👋
+# Akheedha Jan
 
-**Software Engineer** • Full-Stack Web & Mobile • AI Integrations  
-📍 Trivandrum, India • 🎓 B.Tech in Computer Science & Engineering (2022–2026)
+Full-Stack Software Engineer, Trivandrum, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akheedha)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akheedha)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akheedhajan20@gmail.com)
+I build production-ready web and mobile platforms with React, Next.js, Node.js and Django, with 1+ year of professional experience. My work covers REST API design, authentication, real-time systems, CI/CD and cloud deployment, and I integrate LLMs and vision models into real business workflows.
 
----
+B.Tech in Computer Science and Engineering, Kerala University (2026).
 
-### 💡 About Me
-
-- 💻 **Full-Stack & Mobile Development:** Building responsive web and cross-platform mobile apps with **React**, **TypeScript**, **Python (Django)**, and **Flutter**.
-- 🤖 **AI Integrations:** Implementing practical LLM-powered features and automated workflows with **Gemini API** and **OpenRouter**.
-- ☁️ **DevOps & Cloud:** Experience with **Docker** containerization, **GitHub Actions** CI/CD pipelines, and deployments on **AWS, Vercel, and Render**.
-- 🎯 **Focus:** Writing clean, maintainable code and solving real-world domain problems with scalable software architectures.
+[Portfolio](https://akheedhaportfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/akheedha) · [Email](mailto:akheedhajan20@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+## Current Focus
 
-- **Languages:** Python, TypeScript, JavaScript, SQL, HTML5, CSS3
-- **Frontend & Mobile:** React, Vite, Tailwind CSS, Flutter, React Native, Recharts
-- **Backend & APIs:** Django, Django REST Framework, Node.js, Express.js, RESTful APIs, JWT
-- **Databases & Cloud:** PostgreSQL, MySQL, MongoDB, Docker, AWS, GitHub Actions, Vercel, Render
+- Building internal business platforms with Next.js, Node.js and PostgreSQL
+- Real-time dashboards with WebSocket and role-based access
+- LLM-powered workflows and multimodal classification
 
 ---
 
-<p align="center">
-  Feel free to reach out via <a href="mailto:akheedhajan20@gmail.com"><strong>Email</strong></a> or connect on <a href="https://linkedin.com/in/akheedha"><strong>LinkedIn</strong></a>.
-</p>
+## Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Product Taxonomy Classifier](https://github.com/akheedha/product_taxonomy_classifier) | Maps unstructured vendor catalogs to 14,606 Shopify taxonomy categories using semantic embeddings, OpenCLIP and fuzzy matching. Batch pipeline for 10,000+ products. | Django, React, PyTorch, Celery, Redis |
+| [BuildMetrics AI](https://github.com/akheedha/projects-expenses-tracker) | Construction project and expense platform with budget tracking, dashboards and LLM-assisted data entry and Q&A. | React, Node.js, PostgreSQL, Docker |
+| [LumixPlay](https://github.com/akheedha/lumixplay) | Cross-platform streaming app on a single Django REST backend, with role-based access, watchlists and playback sync. | React, React Native, Django REST, PostgreSQL |
+| [Comfy Bed System](https://github.com/akheedha/comfy-bed-system) | Hostel room management: student records, bed allocation and room change requests with role-based access. | Django REST, React |
+| [AI Resume Analyzer](https://github.com/akheedha/ai-resume-analyzer) | ATS-style resume analysis powered by LLMs. | React, Django REST, Tailwind CSS |
+
+---
+
+## Technical Skills
+
+**Languages:** Python, JavaScript, TypeScript, SQL
+**Frontend and Mobile:** React, Next.js, React Native, Flutter, Tailwind CSS
+**Backend:** Node.js, Express, Django, Django REST Framework, WebSocket, JWT
+**Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Redis
+**AI / ML:** LLM APIs, PyTorch, Sentence-Transformers, OpenCLIP
+**DevOps and Cloud:** Docker, GitHub Actions, Celery, AWS (EC2, S3), Vercel, Railway, Render
